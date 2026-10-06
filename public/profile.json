@@ -1,0 +1,387 @@
+{
+  "name": "Estefania Velasquez Vinces",
+  "fullName": "Estefania Aracelli Velasquez Vinces",
+  "title": "Licenciada en Administración de Empresas",
+  "summary": "Gestión administrativa y documentaria, coordinación interáreas y soporte a Alta Dirección. Experiencia en entidades públicas y empresa privada, con enfoque en el orden, la trazabilidad y el cumplimiento de los compromisos institucionales.",
+  "email": "estefaniavinces23@gmail.com",
+  "phone": "51939096186",
+  "location": "Lima, Perú",
+  "cv": "./CV-Estefania-Velasquez.pdf",
+  "roles": [
+    {
+      "id": "0",
+      "company": "Provías Descentralizado",
+      "role": "Asistente Administrativo · Secretaría Técnica / Alta Dirección",
+      "start": "2026-05",
+      "end": "2026-08",
+      "sector": "Público",
+      "area": "Alta Dirección",
+      "details": [
+        "Asistencia a Dirección Ejecutiva y seguimiento de compromisos e hitos institucionales.",
+        "Trazabilidad de expedientes mediante SGD y seguimiento de plazos.",
+        "Elaboración de cuadros de control e informes para identificar cuellos de botella."
+      ]
+    },
+    {
+      "id": "1",
+      "company": "FONDEPES · DIGENIPAA",
+      "role": "Asistente de Gestión Documentaria y Administrativa",
+      "start": "2025-10",
+      "end": "2025-12",
+      "sector": "Público",
+      "area": "Gestión documentaria",
+      "details": [
+        "Seguimiento del flujo documentario e incidencias administrativas del DPA San José.",
+        "Coordinación con Infraestructura, coordinadores y especialistas para el cumplimiento de entregables."
+      ]
+    },
+    {
+      "id": "2",
+      "company": "EMAPE S.A.",
+      "role": "Coordinadora Administrativa · Gerencia General",
+      "start": "2025-06",
+      "end": "2025-07",
+      "sector": "Público",
+      "area": "Alta Dirección",
+      "details": [
+        "Supervisión del despacho de Gerencia General y priorización de requerimientos del SGD.",
+        "Revisión de memorandos, cartas, informes y oficios antes del visado de Alta Dirección.",
+        "Gestión de agenda ejecutiva y participación en comisiones interinstitucionales."
+      ]
+    },
+    {
+      "id": "3",
+      "company": "Gobierno Regional Metropolitano de Lima",
+      "role": "Asistente Administrativo · Infraestructura",
+      "start": "2025-01",
+      "end": "2025-06",
+      "sector": "Público",
+      "area": "Gestión documentaria",
+      "details": [
+        "Diseño e implementación de herramientas de control y seguimiento del flujo documental.",
+        "Apoyo en informes técnico-administrativos y programación de visitas e inspecciones a obras."
+      ]
+    },
+    {
+      "id": "4",
+      "company": "Inver Club Inmobiliaria S.A.C.",
+      "role": "Asistente Administrativo",
+      "start": "2024-11",
+      "end": "2025-01",
+      "sector": "Privado",
+      "area": "Administración",
+      "details": [
+        "Gestión de archivo central, facturas y recibos de honorarios.",
+        "Soporte logístico de eventos y apoyo en supervisión del personal administrativo.",
+        "Actualización de bases de datos corporativas."
+      ]
+    },
+    {
+      "id": "5",
+      "company": "PRONIED · Ministerio de Educación",
+      "role": "Asistente de Dirección · Reconstrucción frente a Desastres",
+      "start": "2024-06",
+      "end": "2024-08",
+      "sector": "Público",
+      "area": "Alta Dirección",
+      "details": [
+        "Procesamiento, trámite y despacho de expedientes estratégicos.",
+        "Elaboración de ayudas de memoria e informes de síntesis para la Dirección."
+      ]
+    },
+    {
+      "id": "6",
+      "company": "Autoridad Nacional del Agua",
+      "role": "Asistente Técnico Administrativo · Unidad Ejecutora de Inversiones",
+      "start": "2024-04",
+      "end": "2024-06",
+      "sector": "Público",
+      "area": "Gestión documentaria",
+      "details": [
+        "Digitalización, registro y distribución de documentación de la Unidad Ejecutora de Inversiones."
+      ]
+    },
+    {
+      "id": "7",
+      "company": "INVERMET",
+      "role": "Asistente de Gerencia de Proyectos",
+      "start": "2023-06",
+      "end": "2024-02",
+      "sector": "Público",
+      "area": "Logística",
+      "details": [
+        "Verificación de TDR y conformidades de pago de bienes y servicios.",
+        "Fiscalización documental previa a trámites financieros.",
+        "Proyección de cartas, oficios e instrumentos administrativos."
+      ]
+    },
+    {
+      "id": "8",
+      "company": "AGRO RURAL · MIDAGRI",
+      "role": "Asistente Administrativo",
+      "start": "2023-05",
+      "end": "2023-06",
+      "sector": "Público",
+      "area": "Administración",
+      "details": [
+        "Registro, clasificación y derivación de documentos; apoyo en expedientes y archivo."
+      ]
+    },
+    {
+      "id": "9",
+      "company": "EMAPE S.A.",
+      "role": "Asistente Administrativo · Planeamiento y Presupuesto / Auxiliar de Gerencia General",
+      "start": "2023-01",
+      "end": "2023-05",
+      "sector": "Público",
+      "area": "Alta Dirección",
+      "details": [
+        "Seguimiento documental en Planeamiento y Presupuesto y soporte al despacho de Gerencia General."
+      ]
+    },
+    {
+      "id": "10",
+      "company": "Municipalidad de Magdalena del Mar",
+      "role": "Asistente Administrativo · Trámite Documentario y Fiscalización",
+      "start": "2021-01",
+      "end": "2022-12",
+      "sector": "Público",
+      "area": "Gestión documentaria",
+      "details": [
+        "Registro, derivación y seguimiento de expedientes de fiscalización y trámites administrativos."
+      ]
+    },
+    {
+      "id": "11",
+      "company": "Municipalidad de Barranco",
+      "role": "Asistente Administrativo · Desarrollo Económico",
+      "start": "2019-07",
+      "end": "2021-02",
+      "sector": "Público",
+      "area": "Alta Dirección",
+      "details": [
+        "Asistencia al gerente, gestión del despacho y agenda institucional.",
+        "Redacción de memorandos, informes y documentos de gerencia."
+      ]
+    },
+    {
+      "id": "12",
+      "company": "Municipalidad de Barranco",
+      "role": "Técnico Administrativo · Comercialización",
+      "start": "2018-07",
+      "end": "2019-07",
+      "sector": "Público",
+      "area": "Administración",
+      "details": [
+        "Tramitación de licencias de funcionamiento, anuncios publicitarios y ceses de actividad.",
+        "Proyección de resoluciones subgerenciales y atención al ciudadano."
+      ]
+    },
+    {
+      "id": "13",
+      "company": "Municipalidad de Barranco",
+      "role": "Apoyo Administrativo · Logística",
+      "start": "2018-06",
+      "end": "2018-06",
+      "sector": "Público",
+      "area": "Logística",
+      "details": [
+        "Recepción y derivación documental, órdenes de servicio y revisión de TDR.",
+        "Constancias de prestación de servicio y soporte operacional en SIAF."
+      ]
+    },
+    {
+      "id": "14",
+      "company": "Municipalidad de Barranco",
+      "role": "Recepcionista · Trámite Documentario y Archivo Central",
+      "start": "2018-02",
+      "end": "2018-05",
+      "sector": "Público",
+      "area": "Gestión documentaria",
+      "details": [
+        "Orientación presencial, recepción y registro de solicitudes; soporte de archivo."
+      ]
+    },
+    {
+      "id": "15",
+      "company": "Municipalidad de Barranco",
+      "role": "Técnico Tributario · Ejecución Coactiva",
+      "start": "2017-02",
+      "end": "2018-01",
+      "sector": "Público",
+      "area": "Administración",
+      "details": [
+        "Elaboración de informes y resoluciones de inicio, acumulación y medidas cautelares.",
+        "Atención de compromisos de pago y orientación a contribuyentes."
+      ]
+    },
+    {
+      "id": "16",
+      "company": "Municipalidad de San Martín de Porres",
+      "role": "Terminalista y Gestión de Cobranzas Tributarias",
+      "start": "2016-01",
+      "end": "2016-12",
+      "sector": "Público",
+      "area": "Administración",
+      "details": [
+        "Procesamiento de cobranzas tributarias, terminales de pago y atención al contribuyente."
+      ]
+    }
+  ],
+  "certs": [
+    {
+      "id": "4",
+      "title": "Licenciatura en Administración de Empresas",
+      "issuer": "Universidad César Vallejo",
+      "year": "2026",
+      "category": "Formación",
+      "url": "./certificados/4.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Bachiller en Administración de Empresas",
+      "issuer": "Universidad César Vallejo",
+      "year": "2026",
+      "category": "Formación",
+      "url": "./certificados/6.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Administración de Empresas · Diploma de egresado",
+      "issuer": "ISAM",
+      "year": "2022",
+      "category": "Formación",
+      "url": "./certificados/9.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Ofimática profesional",
+      "issuer": "INGEDUCA",
+      "year": "2024",
+      "category": "Tecnología",
+      "url": "./certificados/10.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Sistema Nacional de Inversión Pública · Invierte.pe",
+      "issuer": "Infogroup",
+      "year": "2025",
+      "category": "Gestión pública",
+      "url": "./certificados/12.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Gestión pública",
+      "issuer": "Infogroup",
+      "year": "2024",
+      "category": "Gestión pública",
+      "url": "./certificados/14.jpg"
+    },
+    {
+      "id": "16",
+      "title": "SIAF, SIGA y SEACE",
+      "issuer": "Infogroup",
+      "year": "2024",
+      "category": "Gestión pública",
+      "url": "./certificados/16.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Get Connected",
+      "issuer": "Cisco Networking Academy",
+      "year": "2023",
+      "category": "Tecnología",
+      "url": "./certificados/18.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Introduction to Data Science",
+      "issuer": "Cisco Networking Academy",
+      "year": "2025",
+      "category": "Tecnología",
+      "url": "./certificados/19.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Cómo elaborar requerimientos de bienes y servicios",
+      "issuer": "OSCE",
+      "year": "2023",
+      "category": "Gestión pública",
+      "url": "./certificados/20.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Auxiliar administrativo",
+      "issuer": "ISAM",
+      "year": "2022",
+      "category": "Administración",
+      "url": "./certificados/22.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Técnico administrativo",
+      "issuer": "ISAM",
+      "year": "2022",
+      "category": "Administración",
+      "url": "./certificados/23.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Recursos humanos",
+      "issuer": "ISAM",
+      "year": "2022",
+      "category": "Administración",
+      "url": "./certificados/24.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Comercio exterior",
+      "issuer": "ISAM",
+      "year": "2022",
+      "category": "Administración",
+      "url": "./certificados/25.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Costos y presupuestos",
+      "issuer": "ISAM",
+      "year": "2022",
+      "category": "Administración",
+      "url": "./certificados/26.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Clima organizacional, motivación y liderazgo",
+      "issuer": "ISAM",
+      "year": "2022",
+      "category": "Administración",
+      "url": "./certificados/27.jpg"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SIAF",
+      "detail": "Sistema Integrado de Administración Financiera"
+    },
+    {
+      "name": "SIGA",
+      "detail": "Sistema Integrado de Gestión Administrativa"
+    },
+    {
+      "name": "SGD",
+      "detail": "Sistemas de Gestión Documentaria"
+    },
+    {
+      "name": "Microsoft Office",
+      "detail": "Excel, Word y PowerPoint"
+    },
+    {
+      "name": "Gestión documental",
+      "detail": "Expedientes, archivo, digitalización y seguimiento"
+    },
+    {
+      "name": "Coordinación administrativa",
+      "detail": "Agenda directiva, requerimientos y articulación interáreas"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import initial from "../public/profile.json"; export type Profile=typeof initial;
